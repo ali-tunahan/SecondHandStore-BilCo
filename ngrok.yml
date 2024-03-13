@@ -1,0 +1,9 @@
+version: 2
+authtoken: 2ZieJ0Sl0F8TDd2FthPBa9rVJTX_eFzVQPaUgK9UtNZQx2cV
+tunnels:
+  first: 
+    proto: http
+    addr: https://localhost:5084
+  second:
+    proto: tcp
+    addr: 5084

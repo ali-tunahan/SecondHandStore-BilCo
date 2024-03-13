@@ -1,0 +1,19 @@
+EntityFrameworkCore\Add-Migration InitialCreate -Context BilCoDbContext
+EntityFrameworkCore\Update-Database -Context BilCoDbContext
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DONT USE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+EntityFrameworkCore\Add-Migration InitialCreate -Context UserDbContext
+EntityFrameworkCore\Update-Database -Context UserDbContext
